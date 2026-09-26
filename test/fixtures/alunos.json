@@ -1,0 +1,20 @@
+[
+  {
+    "descricao": "aluno de Matemática",
+    "aluno": { "nome": "Diego Martins", "email": "diego.martins@example.com", "matricula": "2026101", "senha": "senha123" },
+    "disciplinaId": "disciplina-matematica",
+    "trabalho": { "titulo": "Lista de Exercícios 3", "descricao": "Funções de 1º grau" }
+  },
+  {
+    "descricao": "aluno de História",
+    "aluno": { "nome": "Elisa Rocha", "email": "elisa.rocha@example.com", "matricula": "2026102", "senha": "senha456" },
+    "disciplinaId": "disciplina-historia",
+    "trabalho": { "titulo": "Resumo - Revolução Francesa", "descricao": "Causas e consequências" }
+  },
+  {
+    "descricao": "aluno de Programação Web",
+    "aluno": { "nome": "Felipe Costa", "email": "felipe.costa@example.com", "matricula": "2026103", "senha": "senha789" },
+    "disciplinaId": "disciplina-programacao-web",
+    "trabalho": { "titulo": "API REST com Express", "descricao": "CRUD de produtos" }
+  }
+]
